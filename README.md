@@ -1,2 +1,15 @@
-# react-echarts
-echarts 调研案例
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
